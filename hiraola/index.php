@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Home Two || Hiraola - Jewellery eCommerce Bootstrap 4 Template</title>
+    <title>Home One || Hiraola - Jewellery eCommerce Bootstrap 4 Template</title>
     <meta name="robots" content="noindex, follow" />
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -45,7 +45,7 @@
 
 </head>
 
-<body class="template-color-2">
+<body class="template-color-1">
 
     <div class="main-wrapper">
 
@@ -83,27 +83,165 @@
         </div>
         <!-- Hiraola's Newsletter Popup Area Here -->
 
-
-        <!-- Begin Hiraola's Header Main Area Two -->
-        <header class="header-main_area header-main_area-2">
-            <div class="header-bottom_area header-bottom_area-2 header-sticky stick">
-                <div class="container-fliud">
+        <!-- Begin Hiraola's Header Main Area -->
+        <header class="header-main_area">
+            <div class="header-top_area">
+                <div class="container">
                     <div class="row">
-                        <div class="col-lg-2 col-md-4 col-sm-4">
+                        <div class="col-lg-5">
+                            <div class="ht-left_area">
+                                <div class="header-shipping_area">
+                                    <ul>
+                                        <li>
+                                            <span>Telephone Enquiry:</span>
+                                            <a href="callto://+123123321345">(+123) 123 321 345</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-7">
+                            <div class="ht-right_area">
+                                <div class="ht-menu">
+                                    <ul>
+                                        <li><a href="javascript:void(0)">Currency<i class="fa fa-chevron-down"></i></a>
+                                            <ul class="ht-dropdown ht-currency">
+                                                <li><a href="javascript:void(0)">€ EUR</a></li>
+                                                <li class="active"><a href="javascript:void(0)">£ Pound Sterling</a></li>
+                                                <li><a href="javascript:void(0)">$ Us Dollar</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="javascript:void(0)">Language <i class="fa fa-chevron-down"></i></a>
+                                            <ul class="ht-dropdown">
+                                                <li class="active"><a href="javascript:void(0)"><img src="assets/images/menu/icon/1.jpg" alt="JB's Language Icon">English</a></li>
+                                                <li><a href="javascript:void(0)"><img src="assets/images/menu/icon/2.jpg" alt="JB's Language Icon">Français</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="my-account.html">My Account<i class="fa fa-chevron-down"></i></a>
+                                            <ul class="ht-dropdown ht-my_account">
+                                                <li><a href="javascript:void(0)">Register</a></li>
+                                                <li class="active"><a href="javascript:void(0)">Login</a></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="header-middle_area d-none d-lg-block">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-3">
                             <div class="header-logo">
                                 <a href="index.html">
                                     <img src="assets/images/menu/logo/1.png" alt="Hiraola's Header Logo">
                                 </a>
                             </div>
                         </div>
-                        <div class="col-lg-7 d-none d-lg-block position-static">
+                        <div class="col-lg-9">
+                            <div class="hm-form_area">
+                                <form action="#" class="hm-searchbox">
+                                    <select class="nice-select select-search-category">
+                                        <option value="0">All</option>
+                                        <option value="10">Laptops</option>
+                                        <option value="17">- - Prime Video</option>
+                                        <option value="20">- - - - All Videos</option>
+                                        <option value="21">- - - - Blouses</option>
+                                        <option value="22">- - - - Evening Dresses</option>
+                                        <option value="23">- - - - Summer Dresses</option>
+                                        <option value="24">- - - - T-shirts</option>
+                                        <option value="25">- - - - Rent or Buy</option>
+                                        <option value="26">- - - - Your Watchlist</option>
+                                        <option value="27">- - - - Watch Anywhere</option>
+                                        <option value="28">- - - - Getting Started</option>
+                                        <option value="18">- - - - Computers</option>
+                                        <option value="29">- - - - More to Explore</option>
+                                        <option value="30">- - - - TV &amp; Video</option>
+                                        <option value="31">- - - - Audio &amp; Theater</option>
+                                        <option value="32">- - - - Camera, Photo </option>
+                                        <option value="33">- - - - Cell Phones</option>
+                                        <option value="34">- - - - Headphones</option>
+                                        <option value="35">- - - - Video Games</option>
+                                        <option value="36">- - - - Wireless Speakers</option>
+                                        <option value="19">- - - - Electronics</option>
+                                        <option value="37">- - - - Amazon Home</option>
+                                        <option value="38">- - - - Kitchen &amp; Dining</option>
+                                        <option value="39">- - - - Furniture</option>
+                                        <option value="40">- - - - Bed &amp; Bath</option>
+                                        <option value="41">- - - - Appliances</option>
+                                        <option value="11">TV &amp; Audio</option>
+                                        <option value="42">- - Chamcham</option>
+                                        <option value="45">- - - - Office</option>
+                                        <option value="47">- - - - Gaming</option>
+                                        <option value="48">- - - - Chromebook</option>
+                                        <option value="49">- - - - Refurbished</option>
+                                        <option value="50">- - - - Touchscreen</option>
+                                        <option value="51">- - - - Ultrabooks</option>
+                                        <option value="52">- - - - Blouses</option>
+                                        <option value="43">- - Sanai</option>
+                                        <option value="53">- - - - Hard Drives</option>
+                                        <option value="54">- - - - Graphic Cards</option>
+                                        <option value="55">- - - - Processors (CPU)</option>
+                                        <option value="56">- - - - Memory</option>
+                                        <option value="57">- - - - Motherboards</option>
+                                        <option value="58">- - - - Fans &amp; Cooling</option>
+                                        <option value="59">- - - - CD/DVD Drives</option>
+                                        <option value="44">- - Meito</option>
+                                        <option value="60">- - - - Sound Cards</option>
+                                        <option value="61">- - - - Cases &amp; Towers</option>
+                                        <option value="62">- - - - Casual Dresses</option>
+                                        <option value="63">- - - - Evening Dresses</option>
+                                        <option value="64">- - - - T-shirts</option>
+                                        <option value="65">- - - - Tops</option>
+                                        <option value="12">Smartphone</option>
+                                        <option value="66">- - Camera Accessories</option>
+                                        <option value="68">- - - - Octa Core</option>
+                                        <option value="69">- - - - Quad Core</option>
+                                        <option value="70">- - - - Dual Core</option>
+                                        <option value="71">- - - - 7.0 Screen</option>
+                                        <option value="72">- - - - 9.0 Screen</option>
+                                        <option value="73">- - - - Bags &amp; Cases</option>
+                                        <option value="67">- - XailStation</option>
+                                        <option value="74">- - - - Batteries</option>
+                                        <option value="75">- - - - Microphones</option>
+                                        <option value="76">- - - - Stabilizers</option>
+                                        <option value="77">- - - - Video Tapes</option>
+                                        <option value="78">- - - - Memory Card Readers</option>
+                                        <option value="79">- - - - Tripods</option>
+                                        <option value="13">Cameras</option>
+                                        <option value="14">headphone</option>
+                                        <option value="15">Smartwatch</option>
+                                        <option value="16">Accessories</option>
+                                    </select>
+                                    <input type="text" placeholder="Enter your search key ...">
+                                    <button class="li-btn" type="submit"><i class="fa fa-search"></i></button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="header-bottom_area header-sticky stick">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-4 col-sm-4 d-lg-none d-block">
+                            <div class="header-logo">
+                                <a href="index.html">
+                                    <img src="assets/images/menu/logo/2.png" alt="Hiraola's Header Logo">
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-lg-9 d-none d-lg-block position-static">
                             <div class="main-menu_area">
                                 <nav>
                                     <ul>
                                         <li class="dropdown-holder"><a href="index.html">Home</a>
                                             <ul class="hm-dropdown">
-                                                <li><a href="index.html">Home One</a></li>
-                                                <li class="active"><a href="index-2.html">Home Two</a></li>
+                                                <li class="active"><a href="index.html">Home One</a></li>
+                                                <li><a href="index-2.html">Home Two</a></li>
                                             </ul>
                                         </li>
                                         <li class="megamenu-holder"><a href="shop-left-sidebar.html">Shop</a>
@@ -198,6 +336,7 @@
                                         </li>
                                         <li><a href="about-us.html">About Us</a></li>
                                         <li><a href="contact.html">Contact</a></li>
+                                        <li><a href="shop-left-sidebar.html">Jewellery</a></li>
                                     </ul>
                                 </nav>
                             </div>
@@ -208,11 +347,6 @@
                                     <li>
                                         <a href="wishlist.html" class="wishlist-btn">
                                             <i class="ion-android-favorite-outline"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#searchBar" class="search-btn toolbar-btn">
-                                            <i class="ion-ios-search-strong"></i>
                                         </a>
                                     </li>
                                     <li>
@@ -228,21 +362,6 @@
                                 </ul>
                             </div>
                         </div>
-                    </div>
-                </div>
-            </div>
-            <div class="offcanvas-search_wrapper" id="searchBar">
-                <div class="offcanvas-menu-inner">
-                    <div class="container">
-                        <a href="#" class="btn-close"><i class="ion-android-close"></i></a>
-                        <!-- Begin Offcanvas Search Area -->
-                        <div class="offcanvas-search">
-                            <form action="#" class="hm-searchbox">
-                                <input type="text" placeholder="Search for item...">
-                                <button class="search_btn" type="submit"><i class="ion-ios-search-strong"></i></button>
-                            </form>
-                        </div>
-                        <!-- Offcanvas Search Area End Here -->
                     </div>
                 </div>
             </div>
@@ -664,104 +783,254 @@
                 </div>
             </div>
         </header>
-        <!-- Hiraola's Header Main Area Two End Here -->
+        <!-- Hiraola's Header Main Area End Here -->
 
 
 
-        <div class="hiraola-slider_area-2">
-            <div class="main-slider">
-                <!-- Begin Single Slide Area -->
-                <div class="single-slide animation-style-01 bg-4">
-                    <div class="container">
-                        <div class="slider-content">
-                            <h5><span>Black Friday</span> This Week</h5>
-                            <h2>Work Desk</h2>
-                            <h3>Surface Studio 2019</h3>
-                            <h4>Starting at <span>£1599.00</span></h4>
-                            <div class="hiraola-btn-ps_center slide-btn">
-                                <a class="hiraola-btn" href="shop-left-sidebar.html">Shopping Now</a>
+        <div class="slider-with-category_menu">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col grid-half order-md-2 order-lg-1">
+                        <div class="category-menu">
+                            <div class="category-heading">
+                                <h2 class="categories-toggle"><span>Shop by categories</span></h2>
+                            </div>
+                            <div id="cate-toggle" class="category-menu-list">
+                                <ul>
+                                    <li class="right-menu"><a href="shop-left-sidebar.html">Hand Harness</a>
+                                        <ul class="cat-mega-menu">
+                                            <li class="right-menu cat-mega-title">
+                                                <a href="shop-left-sidebar.html">Habitant Morbi</a>
+                                                <ul>
+                                                    <li><a href="shop-left-sidebar.html">Habitant Morbi</a></li>
+                                                    <li><a href="shop-left-sidebar.html">Office chair</a></li>
+                                                    <li><a href="shop-left-sidebar.html">Purus Lacus</a></li>
+                                                    <li><a href="shop-left-sidebar.html">Sagittis Blandit</a></li>
+                                                </ul>
+                                            </li>
+                                            <li class="right-menu cat-mega-title">
+                                                <a href="shop-left-sidebar.html">Purus Lacus</a>
+                                                <ul>
+                                                    <li><a href="shop-left-sidebar.html">Magna Pellentesq</a></li>
+                                                    <li><a href="shop-left-sidebar.html">Molestie Tortor</a></li>
+                                                    <li><a href="shop-left-sidebar.html">Vehicula Element</a></li>
+                                                    <li><a href="shop-left-sidebar.html">Volutpat Diam</a></li>
+                                                </ul>
+                                            </li>
+                                            <li class="right-menu cat-mega-title">
+                                                <a href="shop-left-sidebar.html">Office chair</a>
+                                                <ul>
+                                                    <li><a href="shop-left-sidebar.html">Bibendum Cursus</a></li>
+                                                    <li><a href="shop-left-sidebar.html">Dignissim Turpis</a></li>
+                                                    <li><a href="shop-left-sidebar.html">Dining room</a></li>
+                                                    <li><a href="shop-left-sidebar.html">Egestas Ultricies</a></li>
+                                                </ul>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li class="right-menu"><a href="shop-left-sidebar.html">Maang Tika</a>
+                                        <ul class="cat-mega-menu cat-mega-menu-2">
+                                            <li class="right-menu cat-mega-title">
+                                                <a href="shop-left-sidebar.html">Cameras</a>
+                                                <ul>
+                                                    <li><a href="shop-left-sidebar.html">Cords and Cables</a></li>
+                                                    <li><a href="shop-left-sidebar.html">gps accessories</a></li>
+                                                    <li><a href="shop-left-sidebar.html">Microphones</a></li>
+                                                    <li><a href="shop-left-sidebar.html">Wireless Transmitters</a></li>
+                                                </ul>
+                                            </li>
+                                            <li class="right-menu cat-mega-title">
+                                                <a href="shop-left-sidebar.html">Audio</a>
+                                                <ul>
+                                                    <li><a href="shop-left-sidebar.html">Other Accessories</a></li>
+                                                    <li><a href="shop-left-sidebar.html">Portable Audio</a></li>
+                                                    <li><a href="shop-left-sidebar.html">Satellite Radio</a></li>
+                                                    <li><a href="shop-left-sidebar.html">Visual Accessories</a></li>
+                                                </ul>
+                                            </li>
+                                            <li class="right-menu cat-mega-title">
+                                                <a href="shop-left-sidebar.html">Cell Phones</a>
+                                                <ul>
+                                                    <li><a href="shop-left-sidebar.html">Xail</a></li>
+                                                    <li><a href="shop-left-sidebar.html">Chamcham Galaxy</a></li>
+                                                    <li><a href="shop-left-sidebar.html">SIM Cards</a></li>
+                                                    <li><a href="shop-left-sidebar.html">Prepaid Cell Phones</a></li>
+                                                </ul>
+                                            </li>
+                                            <li class="right-menu cat-mega-title">
+                                                <a href="shop-left-sidebar.html">TV & Video</a>
+                                                <ul>
+                                                    <li><a href="shop-left-sidebar.html">4K Ultra HDTVs</a></li>
+                                                    <li><a href="shop-left-sidebar.html">All TVs</a></li>
+                                                    <li><a href="shop-left-sidebar.html">Refurbished TVs</a></li>
+                                                    <li><a href="shop-left-sidebar.html">TV Accessories</a></li>
+                                                </ul>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li class="right-menu"><a href="shop-left-sidebar.html">Toe Rings</a>
+                                        <ul class="cat-mega-menu cat-mega-menu-3">
+                                            <li class="right-menu cat-mega-title">
+                                                <a href="shop-left-sidebar.html">Sagittis Blandit</a>
+                                                <ul>
+                                                    <li><a href="shop-left-sidebar.html">adipiscing elit</a></li>
+                                                    <li><a href="shop-left-sidebar.html">consectetur adip</a></li>
+                                                    <li><a href="shop-left-sidebar.html">erat et est</a></li>
+                                                    <li><a href="shop-left-sidebar.html">molestie velit</a></li>
+                                                </ul>
+                                            </li>
+                                            <li class="right-menu cat-mega-title">
+                                                <a href="shop-left-sidebar.html">Accessories</a>
+                                                <ul>
+                                                    <li><a href="shop-left-sidebar.html">Habitant Morbi</a></li>
+                                                    <li><a href="shop-left-sidebar.html">Office chair</a></li>
+                                                    <li><a href="shop-left-sidebar.html">Purus Lacus</a></li>
+                                                    <li><a href="shop-left-sidebar.html">Sagittis Blandit</a></li>
+                                                </ul>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li class="right-menu"><a href="shop-left-sidebar.html">Traditional Earrings</a>
+                                        <ul class="cat-mega-menu">
+                                            <li class="right-menu cat-mega-title">
+                                                <a href="shop-left-sidebar.html">Accessories</a>
+                                                <ul>
+                                                    <li><a href="shop-left-sidebar.html">Habitant Morbi</a></li>
+                                                    <li><a href="shop-left-sidebar.html">Office chair</a></li>
+                                                    <li><a href="shop-left-sidebar.html">Purus Lacus</a></li>
+                                                    <li><a href="shop-left-sidebar.html">Sagittis Blandit</a></li>
+                                                </ul>
+                                            </li>
+                                            <li class="right-menu cat-mega-title">
+                                                <a href="shop-left-sidebar.html">Purus Lacus</a>
+                                                <ul>
+                                                    <li><a href="shop-left-sidebar.html">Magna Pellentesq</a></li>
+                                                    <li><a href="shop-left-sidebar.html">Molestie Tortor</a></li>
+                                                    <li><a href="shop-left-sidebar.html">Vehicula Element</a></li>
+                                                    <li><a href="shop-left-sidebar.html">Volutpat Diam</a></li>
+                                                </ul>
+                                            </li>
+                                            <li class="right-menu cat-mega-title">
+                                                <a href="shop-left-sidebar.html">Office chair</a>
+                                                <ul>
+                                                    <li><a href="shop-left-sidebar.html">Bibendum Cursus</a></li>
+                                                    <li><a href="shop-left-sidebar.html">Dignissim Turpis</a></li>
+                                                    <li><a href="shop-left-sidebar.html">Dining room</a></li>
+                                                    <li><a href="shop-left-sidebar.html">Egestas Ultricies</a></li>
+                                                </ul>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li><a href="shop-left-sidebar.html">Kada Cum Bracelet</a></li>
+                                    <li><a href="shop-left-sidebar.html">Exquisite Rings</a></li>
+                                    <li><a href="shop-left-sidebar.html">Necklaces</a></li>
+                                    <li><a href="shop-left-sidebar.html">Foot Harness</a></li>
+                                    <li><a href="shop-left-sidebar.html">Braid Jewels</a></li>
+                                    <li class="rx-child"><a href="shop-left-sidebar.html">Anklet – Epitome Of Culture</a></li>
+                                    <li class="rx-child"><a href="shop-left-sidebar.html">Graceful Armlet</a></li>
+                                    <li class="rx-parent">
+                                        <a class="rx-default">More Categories</a>
+                                        <a class="rx-show">Collapse</a>
+                                    </li>
+                                </ul>
                             </div>
                         </div>
-                        <div class="slider-progress"></div>
                     </div>
-                </div>
-                <!-- Single Slide Area End Here -->
-                <!-- Begin Single Slide Area -->
-                <div class="single-slide animation-style-02 bg-5">
-                    <div class="container">
-                        <div class="slider-content">
-                            <h5><span>-10% Off</span> This Week</h5>
-                            <h2>Phantom4</h2>
-                            <h3>Pro+ Obsidian</h3>
-                            <h4>Starting at <span>£809.00</span></h4>
-                            <div class="hiraola-btn-ps_center slide-btn">
-                                <a class="hiraola-btn" href="shop-left-sidebar.html">Shopping Now</a>
+                    <div class="col grid-full order-md-1 order-lg-2">
+                        <div class="hiraola-slider_area">
+                            <div class="main-slider">
+                                <!-- Begin Single Slide Area -->
+                                <div class="single-slide animation-style-01 bg-1">
+                                    <div class="container">
+                                        <div class="slider-content">
+                                            <h5><span>Black Friday</span> This Week</h5>
+                                            <h2>Work Desk</h2>
+                                            <h3>Surface Studio 2019</h3>
+                                            <h4>Starting at <span>£1599.00</span></h4>
+                                            <div class="hiraola-btn-ps_left slide-btn">
+                                                <a class="hiraola-btn" href="shop-left-sidebar.html">Shopping Now</a>
+                                            </div>
+                                        </div>
+                                        <div class="slider-progress"></div>
+                                    </div>
+                                </div>
+                                <!-- Single Slide Area End Here -->
+                                <!-- Begin Single Slide Area -->
+                                <div class="single-slide animation-style-02 bg-2">
+                                    <div class="container">
+                                        <div class="slider-content">
+                                            <h5><span>-10% Off</span> This Week</h5>
+                                            <h2>Phantom4</h2>
+                                            <h3>Pro+ Obsidian</h3>
+                                            <h4>Starting at <span>£809.00</span></h4>
+                                            <div class="hiraola-btn-ps_left slide-btn">
+                                                <a class="hiraola-btn" href="shop-left-sidebar.html">Shopping Now</a>
+                                            </div>
+                                        </div>
+                                        <div class="slider-progress"></div>
+                                    </div>
+                                </div>
+                                <div class="single-slide animation-style-02 bg-3">
+                                    <div class="container">
+                                        <div class="slider-content">
+                                            <h5><span>Black Friday</span> This Week</h5>
+                                            <h2>Work Desk</h2>
+                                            <h3>Surface Studio 2019</h3>
+                                            <h4>Starting at <span>£1599.00</span></h4>
+                                            <div class="hiraola-btn-ps_left slide-btn">
+                                                <a class="hiraola-btn" href="shop-left-sidebar.html">Shopping Now</a>
+                                            </div>
+                                        </div>
+                                        <div class="slider-progress"></div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
-                        <div class="slider-progress"></div>
+                    </div>
+                    <div class="col grid-half grid-md_half order-md-2 order-lg-3">
+                        <div class="banner-item img-hover_effect">
+                            <a href="shop-left-sidebar.html">
+                                <img class="img-full" src="assets/images/banner/1_1.jpg" alt="Hiraola's Banner">
+                            </a>
+                        </div>
                     </div>
                 </div>
-                <!-- Single Slide Area End Here -->
             </div>
         </div>
 
 
 
 
-        <!-- Begin Hiraola's Shipping Area Two -->
-        <div class="hiraola-shipping_area hiraola-shipping_area-2">
-            <div class="container">
-                <div class="shipping-nav">
-                    <div class="row">
-                        <div class="col-lg-3 col-md-6">
-                            <div class="shipping-item">
-                                <div class="shipping-icon">
-                                    <img src="assets/images/shipping-icon/1.png" alt="Hiraola's Shipping Icon">
-                                </div>
-                                <div class="shipping-content">
-                                    <h6>Free Uk Standard Delivery</h6>
-                                    <p>Designated day delivery</p>
-                                </div>
-                            </div>
+        <div class="hiraola-banner_area">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-lg-4">
+                        <div class="banner-item img-hover_effect">
+                            <a href="shop-left-sidebar.html">
+                                <img class="img-full" src="assets/images/banner/1_2.jpg" alt="Hiraola's Banner">
+                            </a>
                         </div>
-                        <div class="col-lg-3 col-md-6">
-                            <div class="shipping-item">
-                                <div class="shipping-icon">
-                                    <img src="assets/images/shipping-icon/2.png" alt="Hiraola's Shipping Icon">
-                                </div>
-                                <div class="shipping-content">
-                                    <h6>Freshyly Prepared Ingredients</h6>
-                                    <p>Made for your delivery date</p>
-                                </div>
-                            </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="banner-item img-hover_effect">
+                            <a href="shop-left-sidebar.html">
+                                <img class="img-full" src="assets/images/banner/1_3.jpg" alt="Hiraola's Banner">
+                            </a>
                         </div>
-                        <div class="col-lg-3 col-md-6">
-                            <div class="shipping-item">
-                                <div class="shipping-icon">
-                                    <img src="assets/images/shipping-icon/3.png" alt="Hiraola's Shipping Icon">
-                                </div>
-                                <div class="shipping-content">
-                                    <h6>98% Of Anta Clients</h6>
-                                    <p>Reach their personal goals set</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-6">
-                            <div class="shipping-item">
-                                <div class="shipping-icon">
-                                    <img src="assets/images/shipping-icon/4.png" alt="Hiraola's Shipping Icon">
-                                </div>
-                                <div class="shipping-content">
-                                    <h6>Winner Of 15 Awards</h6>
-                                    <p>Healthy food and drink 2019</p>
-                                </div>
-                            </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="banner-item img-hover_effect">
+                            <a href="shop-left-sidebar.html">
+                                <img class="img-full" src="assets/images/banner/1_4.jpg" alt="Hiraola's Banner">
+                            </a>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <!-- Hiraola's Shipping Area Two End Here -->
+
+
+
 
 
         <!-- Begin Hiraola's Product Area -->
@@ -5942,6 +6211,63 @@
             </div>
         </div>
         <!-- Hiraola's Product Tab Area Three End Here -->
+
+
+
+        <!-- Begin Hiraola's Shipping Area -->
+        <div class="hiraola-shipping_area">
+            <div class="container">
+                <div class="shipping-nav">
+                    <div class="row">
+                        <div class="col-lg-3 col-md-6">
+                            <div class="shipping-item">
+                                <div class="shipping-icon">
+                                    <img src="assets/images/shipping-icon/1.png" alt="Hiraola's Shipping Icon">
+                                </div>
+                                <div class="shipping-content">
+                                    <h6>Free Uk Standard Delivery</h6>
+                                    <p>Designated day delivery</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6">
+                            <div class="shipping-item">
+                                <div class="shipping-icon">
+                                    <img src="assets/images/shipping-icon/2.png" alt="Hiraola's Shipping Icon">
+                                </div>
+                                <div class="shipping-content">
+                                    <h6>Freshyly Prepared Ingredients</h6>
+                                    <p>Made for your delivery date</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6">
+                            <div class="shipping-item">
+                                <div class="shipping-icon">
+                                    <img src="assets/images/shipping-icon/3.png" alt="Hiraola's Shipping Icon">
+                                </div>
+                                <div class="shipping-content">
+                                    <h6>98% Of Anta Clients</h6>
+                                    <p>Reach their personal goals set</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6">
+                            <div class="shipping-item">
+                                <div class="shipping-icon">
+                                    <img src="assets/images/shipping-icon/4.png" alt="Hiraola's Shipping Icon">
+                                </div>
+                                <div class="shipping-content">
+                                    <h6>Winner Of 15 Awards</h6>
+                                    <p>Healthy food and drink 2019</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Hiraola's Shipping Area End Here -->
 
 
         <!-- Begin Hiraola's Footer Area -->
